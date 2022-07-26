@@ -7,7 +7,7 @@
   <link href="https://fonts.googleapis.com/css?family=Ribeye+Marrow&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Arial&display=swap" rel="stylesheet">
 
-  <link rel="stylesheet" href="product_view.css">
+  <link rel="stylesheet" href="css/product_view.css">
 
 </head>
 
